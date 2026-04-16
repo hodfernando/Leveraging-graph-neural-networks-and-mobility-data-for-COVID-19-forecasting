@@ -78,3 +78,25 @@ If you use this repository, please cite the article:
 
 Duarte, Fernando, et al. Leveraging graph neural networks and mobility data for COVID-19 forecasting.
 Applied Soft Computing, 2026. Reference: ASOC_115242.
+
+## Citation
+
+If you find this work useful for your research, please consider citing our paper:
+
+**Title:** Leveraging graph neural networks and mobility data for COVID-19 forecasting
+**Journal:** *Applied Soft Computing*, 2026  
+**DOI:** [10.1016/j.asoc.2026.115242](https://doi.org/10.1016/j.asoc.2026.115242)
+
+You can access the full version here: [ScienceDirect - Full Article](https://www.sciencedirect.com/science/article/pii/S1568494626006903)
+
+### BibTeX
+```latex
+@article{DUARTE2026ASOC,
+  title = {Leveraging graph neural networks and mobility data for COVID-19 forecasting},
+  journal = {Applied Soft Computing},
+  year = {2026},
+  issn = {1568-4946},
+  doi = {10.1016/j.asoc.2026.113264},
+  url = {[https://doi.org/10.1016/j.asoc.2026.115242](https://doi.org/10.1016/j.asoc.2026.115242)},
+  author = {Fernando Duarte and [Other Authors]}
+}
