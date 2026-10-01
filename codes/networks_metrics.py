@@ -13,7 +13,7 @@ project_dir = os.path.abspath(os.path.join(current_dir, ".."))
 raw_data_dir = os.path.join(project_dir, "raw_data")
 
 # Caminho para a pasta "networks"
-networks_dir = os.path.join(raw_data_dir, "networks")
+networks_dir = os.path.join(raw_data_dir, "China", "networks")
 
 # Listar arquivos de redes no diretório "networks"
 networks_files = os.listdir(networks_dir)

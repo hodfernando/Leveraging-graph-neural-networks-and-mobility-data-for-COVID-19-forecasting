@@ -1,0 +1,88 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="attrs" />
+          <option value="blosc2" />
+          <option value="cloudpickle" />
+          <option value="colorama" />
+          <option value="Cython" />
+          <option value="dask" />
+          <option value="dask-pytorch-ddp" />
+          <option value="decorator" />
+          <option value="distributed" />
+          <option value="filelock" />
+          <option value="frozenlist" />
+          <option value="fsspec" />
+          <option value="Jinja2" />
+          <option value="locket" />
+          <option value="MarkupSafe" />
+          <option value="mpmath" />
+          <option value="multidict" />
+          <option value="ndindex" />
+          <option value="networkx" />
+          <option value="numexpr" />
+          <option value="numpy" />
+          <option value="partd" />
+          <option value="pillow" />
+          <option value="propcache" />
+          <option value="psutil" />
+          <option value="py-cpuinfo" />
+          <option value="pyg_lib" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="PyYAML" />
+          <option value="scipy" />
+          <option value="six" />
+          <option value="sortedcontainers" />
+          <option value="sympy" />
+          <option value="tables" />
+          <option value="tblib" />
+          <option value="toolz" />
+          <option value="torch" />
+          <option value="torch-geometric" />
+          <option value="torch_cluster" />
+          <option value="torch_geometric_temporal" />
+          <option value="torch_scatter" />
+          <option value="torch_sparse" />
+          <option value="torch_spline_conv" />
+          <option value="torchvision" />
+          <option value="tornado" />
+          <option value="tzdata" />
+          <option value="xxhash" />
+          <option value="yarl" />
+          <option value="zict" />
+          <option value="pandas" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredStubPackages">
+        <list>
+          <option value="pandas-stubs~=2.3.3" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="float.__getitem__" />
+          <option value="visualization.graphviz" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
