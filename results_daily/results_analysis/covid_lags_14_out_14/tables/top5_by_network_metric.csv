@@ -1,0 +1,21 @@
+ibgeID,city,value,metric
+3550308,São Paulo,1988904.3141173597,betweenness
+3106200,Belo Horizonte,927897.0327946732,betweenness
+3509502,Campinas,584188.5524363958,betweenness
+3304557,Rio de Janeiro,467534.7932932588,betweenness
+2211001,Teresina,337426.3808242162,betweenness
+3550308,São Paulo,54379.75,strength
+2927408,Salvador,24699.5,strength
+2611606,Recife,18883.0,strength
+2211001,Teresina,18827.0,strength
+5300108,Brasília,17982.25,strength
+3550308,São Paulo,1132.0,degree
+5300108,Brasília,572.0,degree
+5208707,Goiânia,490.0,degree
+3304557,Rio de Janeiro,333.0,degree
+2927408,Salvador,315.0,degree
+1100023,Ariquemes,1.0,closeness
+1100049,Cacoal,1.0,closeness
+1200104,Brasiléia,1.0,closeness
+1200179,Capixaba,1.0,closeness
+1200203,Cruzeiro do Sul,1.0,closeness
